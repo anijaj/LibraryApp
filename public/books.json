@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Animal Farm",
+        "author":"George Orwell",
+        "genre":"Political satire",
+        "img":"animalfarm.jpg"
+    },
+    
+    {
+        "title":"Harry Potter and the Deathly Hallows",
+        "author":"J.K Rowling",
+        "genre":"Fantasy",
+        "img":"hp&dh.jpg"
+    },
+
+    {
+        "title":"Becoming",
+        "author":"Michelle Obama",
+        "genre":"Memoir",
+        "img":"becoming.jpg"
+    }
+]

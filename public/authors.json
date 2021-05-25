@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "J.K Rowling",
+        "nationality" : "England",
+        "img" : "jk.jpg"
+    },
+    {
+        "name" : "George Orwell",
+        "nationality" : "England",
+        "img" : "georgeorwell.jpg"
+    },
+    {
+        "name" : "Charles Dickens",
+        "nationality" : "England",
+        "img" : "charlesdickens.jpg"
+    },
+    {
+        "name" : "Rick Riordan",
+        "nationality" : "United States",
+        "img" : "rickriordan.jpg"
+    }
+]
