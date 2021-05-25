@@ -2,11 +2,14 @@
   "name": "library-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ejs",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "14.16.1"
+  }
   "author": "Anija J",
   "license": "ISC",
   "dependencies": {
